@@ -7,5 +7,5 @@
 # egg dosa
 
 * dosa flour
-* 2 eggs
-* karam
+* 2 eggs added
+* karam added
