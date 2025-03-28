@@ -7,4 +7,4 @@
 # Egg Dosa
 
 * 3 eggs
-* oil
+* :wq!oil
